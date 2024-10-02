@@ -12,7 +12,7 @@
   padding: 10px;
   border-radius: 10px;
   border: none;
-  background-color: hsl(47, 14%, 50%);
+  background-color: #fb955b;
   box-shadow: 0 1px 7px rgba(15, 15, 15, 0.9);
   font-size: 20px;
   font-weight: bold;
@@ -20,8 +20,7 @@
 .feedbackItem:hover,
 .feedbackItem:focus,
 .feedbackItem:active {
-  color: white;
-  background-color: #272621;
+  background-color: #ffd96e;
   cursor: pointer;
 }
 .feedbackReset {
@@ -32,7 +31,7 @@
   padding: 10px;
   border-radius: 10px;
   border: none;
-  background-color: hsl(49, 6%, 39%);
+  background-color: #ba4a3f;
   box-shadow: 0 1px 7px rgba(15, 15, 15, 0.9);
   font-size: 20px;
   font-weight: bold;
@@ -40,7 +39,6 @@
 .feedbackReset:hover,
 .feedbackReset:focus,
 .feedbackReset:active {
-  color: white;
-  background-color: hsl(60, 6%, 22%);
+  background-color: #ffd96e;
   cursor: pointer;
 }
