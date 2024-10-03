@@ -4,7 +4,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  /* background-color: #cbc2a0; */
+  background-color: #cbc2a0;
   background: url(/src/images/anime-coffee-shop-illustration_23-2151764614.jpg)
     center / cover no-repeat;
   background-repeat: no-repeat;
